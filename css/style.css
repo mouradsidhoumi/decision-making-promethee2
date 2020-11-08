@@ -1,0 +1,10 @@
+input[type="file"] {
+    visibility: hidden;
+    display: inline-block;
+    width: 0px;
+    height: 0px;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
