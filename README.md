@@ -17,8 +17,11 @@
 ① - Identify which desision you want to make.  
 ② - Define what are the possible actions(alternatives) to choose between, and the criteras that you gona evaluate each action on.  
 ③ - Dress a table (Actions⨯Critirias) with the collected data, on an Excel file(recommanded), or by filling the table in the [website](https://mouradsidhoumi.github.io/promethee2/).  
+
 *(Easy until here, now it time for 🔥)*  
+
 *If you choosed to fill an Excel file, make sure to have [***This Formating***](https://mouradsidhoumi.github.io/promethee2/img/file_formatting.png) so it can works on the website. The optional part (which we gona discuss in a jiff) is not required on the Excel file because you can fill it in the website, but it is still required for the method to operate.   
+
 ④ - Give for each critera a : 
 - <u>**Weigth**</u> ; the more it is the more the criteria is important.
 - <u>**Boolean for maximize (yes|1) or minimize (no|0)**</u>. Example in a purchase, benefits (as quality) are to maximize, and expenses (as price) are to minimize.
