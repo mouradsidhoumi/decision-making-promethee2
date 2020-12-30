@@ -1,8 +1,8 @@
-# PROMETHEE II - A Method Of Multi Criteria Decision Making|Support|Analysis (MCDA)
+# PROMETHEE II - A Method Of Multi Criteria Decision Support|Analysis|Making (MCDM)
 
-🔗 Live Demo: <https://mouradsidhoumi.github.io/promethee2/>
+🔗 Live Demo: <a href="https://mouradsidhoumi.github.io/promethee2/" target="_blank">https://mouradsidhoumi.github.io/promethee2/</a>
 
-📘 If you understand _french_, [here is a mini-thesis-like](https://pdfhost.io/v/9wScft4g5_Memoire_L3_Sidhoumi.pdf) that I did about this project 🎓.
+📘 If you understand _french_, <a href="https://pdfhost.io/v/9wScft4g5_Memoire_L3_Sidhoumi.pdf" target="_blank">here is a mini-thesis-like</a> that I did about this project 🎓.
 
 
 ---
@@ -15,17 +15,17 @@
 ---
 ## How to use it : 🏎
 ① - Identify which desision you want to make.  
-② - Define what are the possible actions(alternatives) to choose between, and the criteras that you gona evaluate each action on.  
-③ - Dress a table (Actions⨯Critirias) with the collected data, on an Excel file(recommanded), or by filling the table in the [website](https://mouradsidhoumi.github.io/promethee2/).  
+② - Define what are the possible actions(alternatives) to choose between, and the criterias that you gona evaluate each action on.  
+③ - Dress a table (Actions⨯Criterias) with the collected data, on an Excel file(recommanded), or by filling the table in the <a href="https://mouradsidhoumi.github.io/promethee2/" target="_blank">**website**</a>.  
 
 *(Easy until here, now it time for 🔥)*  
 
 *If you choosed to fill an Excel file, make sure to have [***This Formating***](https://mouradsidhoumi.github.io/promethee2/img/file_formatting.png) so it can works on the website. The optional part (which we gona discuss in a jiff) is not required on the Excel file because you can fill it in the website, but it is still required for the method to operate.   
 
-④ - Give for each critera a : 
+④ - Give for each criteria a : 
 - <u>**Weigth**</u> ; the more it is the more the criteria is important.
 - <u>**Boolean for maximize (yes|1) or minimize (no|0)**</u>. Example in a purchase, benefits (as quality) are to maximize, and expenses (as price) are to minimize.
-- <u>**Prefrence function**</u>, for more simplicity while staying realistic, I recommend to make them all ***"Linear"*** (putting number ***"5"*** in the Excel file), because it is the general case that includes the majority of prefrence functions.  
+- <u>**Prefrence function**</u>, to keep it simple for you while staying realistic, I recommend to make them all ***"Linear"*** (putting number ***"5"*** in the Excel file), because it is the general case that includes the majority of prefrence functions.  
 
 Now, imagine that there is a score diffrence between two actions on a criteria, that *diffrence value* can be significant or insignificant depanding on how you see the criteria.  
 - <u>**Indifference Limen**</u>, the highest value for that *diffrence* so it still insignificant (negligible), meaning that they are as same.
@@ -44,9 +44,6 @@ My Anchored Heading {#my-anchor}
 <a id="my-header"></a> Header
 [header](#my-header),any other.
 
-- **Type** which dictate the amount of *prefrence* of an action with a higher score over another action on that criteria.  
-
-the relation between the diffrence of two actions on that criteria and 
 -->
 
 <!--
