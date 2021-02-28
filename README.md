@@ -9,8 +9,8 @@
 
 ### 🧭 Two case scenarios are covered in this readme for using the method :
 
-- [I just want to know **how to use it** (express way ⚡).](#⚡-how-to-use-it-:)
-- I want understand **how it works** (with an intro to MCDM). [in works 🏗🛠]
+- [I just want to know **how to use it** (express way ⚡).](#-how-to-use-it-)
+- [I want understand **how it works** (with an intro to MCDM). [in works 🏗🛠]](#𝘉𝘳𝘪𝘦𝘧-ℑ𝔫𝔱𝔯𝔬𝔡𝔲𝔠𝔱𝔦𝔬𝔫-𝔱𝔬-𝔐𝔲𝔩𝔱𝔦-ℭ𝔯𝔦𝔱𝔢𝔯𝔦𝔞-𝔇𝔢𝔠𝔦𝔰𝔦𝔬𝔫-𝔐𝔞𝔎𝔦𝔫𝔤)
 
 ---
 ## 𝘉𝘳𝘪𝘦𝘧 ℑ𝔫𝔱𝔯𝔬𝔡𝔲𝔠𝔱𝔦𝔬𝔫 𝔱𝔬 𝔐𝔲𝔩𝔱𝔦 ℭ𝔯𝔦𝔱𝔢𝔯𝔦𝔞 𝔇𝔢𝔠𝔦𝔰𝔦𝔬𝔫 𝔐𝔞𝔎𝔦𝔫𝔤:
