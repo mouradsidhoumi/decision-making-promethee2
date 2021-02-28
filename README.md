@@ -185,27 +185,11 @@ After having all data (covered in how to use it) here is how it works:
 
 **Step 6** Sort the net flows from biggest to smallest. Here we get the final ranking with PROMETHEE II method!  
 
-
 ---
+# Bibliography:
+Soon 🚧🏗🛠
 
 <!--
-**Step 1:** Determine the possible actions (alternatives), and the criterias of selection. Evaluate each action on the criterias and include the values in a matrix.  
-**Step 2:** Give a weight for each criteria. Higher it is, important is the criteria.  
-**Step 3:** 
-if the number of actions is *n*, this new matrix has a size of *n*·(*n*-1)⨯criteria
- and devide each sum on criterias weights sum.
--->
-
----
-My Anchored Heading { }
-<a id="my-header"></a> Header
-[header](#my-header),any other.
-My Anchored Heading {#my-anchor} Header header,any other.
-<!--
-## Content soon 🚧🏗🛠  
 
 -->
 
-<!--
-## Content soon 🚧🏗🛠 
--->
