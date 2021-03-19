@@ -95,10 +95,10 @@ For d the diffrence between actions pair (A𝒊, A𝒋) *(not the reverse)* on a
 Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments on the right):[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-dans-les-réseaux-de-télécommunications-autonomes---institut-national-des-télécommunications-2012)
 <table>
     <tr>
-        <td>
+        <td style="min-width:180px;width:180px">
             <center>Type 1: Usual</center>
             <br/>
-            <img style="min-width:190px;width:190px" src="https://images2.imgbox.com/02/dd/sVL4ucmu_o.png" alt="graph1"/>
+            <img style="min-width:150px;width:175px" src="https://images2.imgbox.com/02/dd/sVL4ucmu_o.png" alt="graph1"/>
         </td>
         <td>
             • Absolute preference once there is positive diffrence.<br/>
@@ -107,7 +107,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="min-width:180px;width:180px">
             <center>Type 2: U-shape</center>
             <br/>
             <img style="width:175px" src="https://images2.imgbox.com/37/55/k5pCTsmQ_o.png" alt="graph2"/>
@@ -118,7 +118,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="min-width:180px;width:180px">
         <center>Type 3: V-shape</center>
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/57/fb/PqW9R0un_o.png" alt="graph3"/>
@@ -131,7 +131,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="min-width:180px;width:180px">
         <center>Type 4: Level</center>
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/53/bb/YyiMp5Ud_o.png" alt="graph4"/>
@@ -142,7 +142,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="min-width:180px;width:180px">
         <center>Type 5: Linear</center>
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/27/d9/i1DGVLOz_o.png" alt="graph5"/>
@@ -154,7 +154,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="min-width:180px;width:180px">
         <center>Type 6: Gaussian</center>
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/d1/01/43buDmp7_o.png" alt="graph6"/>
