@@ -96,7 +96,7 @@ Here are the 6 types:[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-
 <table>
     <tr>
         <td style="min-width:180px;width:180px">
-            <center>&nbsp Type 1: Usual &nbsp &nbsp</center>
+            <center>Type 1: Usual</center>
             <br/>
             <img style="min-width:150px;width:175px" src="https://images2.imgbox.com/02/dd/sVL4ucmu_o.png" alt="graph1"/>
         </td>
@@ -108,7 +108,7 @@ Here are the 6 types:[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-
     </tr>
     <tr>
         <td style="min-width:180px;width:180px">
-            <center>&nbsp Type 2: U-shape &nbsp &nbsp</center>
+            <center>Type 2: U-shape</center>
             <br/>
             <img style="width:175px" src="https://images2.imgbox.com/37/55/k5pCTsmQ_o.png" alt="graph2"/>
         </td>
@@ -119,7 +119,7 @@ Here are the 6 types:[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-
     </tr>
     <tr>
         <td style="min-width:180px;width:180px">
-        <center> &nbsp Type 3: V-shape &nbsp  &nbsp </center>
+        <center>Type 3: V-shape</center>
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/57/fb/PqW9R0un_o.png" alt="graph3"/>
         </td>
@@ -132,7 +132,7 @@ Here are the 6 types:[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-
     </tr>
     <tr>
         <td style="min-width:180px;width:180px">
-        <center> &nbsp Type 4: Level &nbsp  &nbsp </center>
+        <center>Type 4: Level</center>
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/53/bb/YyiMp5Ud_o.png" alt="graph4"/>
         </td>
@@ -143,7 +143,7 @@ Here are the 6 types:[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-
     </tr>
     <tr>
         <td style="min-width:180px;width:180px">
-        <center> &nbsp Type 5: Linear &nbsp  &nbsp </center>
+        <center>Type 5: Linear</center>
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/27/d9/i1DGVLOz_o.png" alt="graph5"/>
         </td>
@@ -155,7 +155,7 @@ Here are the 6 types:[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-
     </tr>
     <tr>
         <td style="min-width:180px;width:180px">
-        <center> &nbsp Type 6: Gaussian &nbsp  &nbsp </center>
+        <center>Type 6: Gaussian</center>
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/d1/01/43buDmp7_o.png" alt="graph6"/>
         </td>
