@@ -92,10 +92,7 @@ For d the diffrence between actions pair (A𝒊, A𝒋) *(not the reverse)* on a
 - q << d < p ⇔ P ≈ 1 : A𝒊 is *strongly preferred* over A𝒋.  
 - p < d ⇔ P = 1 : A𝒊 is *absolutely(or strictly) preferred* over A𝒋.  [⁽¹⁰⁾](#-taibi-boumedyen---lanalyse-multicritère-comme-outil-daide-à-la-décision-application-de-la-méthode-promethee)
 
-Here are the 6 types:[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-dans-les-réseaux-de-télécommunications-autonomes---institut-national-des-télécommunications-2012)
-
-(you can determine **d** and 𝑷 from the graphs)
-
+Here are the 6 types:[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-dans-les-réseaux-de-télécommunications-autonomes---institut-national-des-télécommunications-2012)*(you can determine **d** and 𝑷 from the graphs)*
 <table>
     <tr>
         <td style="min-width:180px;width:180px">
