@@ -170,7 +170,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
 🚧 In the demo website, the gaussian type will be added soon.
 
 ---
-## ⚙ PROMETHEE II Process : [missing formulas 🏗🛠]
+## ⚙ PROMETHEE II Process : 
 
 After having all data (covered in how to use it) here is how it works:  
 
