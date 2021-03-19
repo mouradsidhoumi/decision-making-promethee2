@@ -100,7 +100,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
             <br/>
             <img style="min-width:150px;width:175px" src="https://images2.imgbox.com/02/dd/sVL4ucmu_o.png" alt="graph1"/>
         </td>
-        <td>
+        <td style="max-width:505px">
             • Absolute preference once there is positive diffrence.<br/>
             • Good for criterias with qualitative or binary values.<br/>
             • No parameter to define.
@@ -112,7 +112,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
             <br/>
             <img style="width:175px" src="https://images2.imgbox.com/37/55/k5pCTsmQ_o.png" alt="graph2"/>
         </td>
-        <td>
+        <td style="max-width:505px">
         • As type 1 with an indiffrence zone (but not for binary values).<br/>
         • Indifference threshold <b>q</b> needs to be defined (<b>p</b> is merged with it).
         </td>
@@ -123,7 +123,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/57/fb/PqW9R0un_o.png" alt="graph3"/>
         </td>
-        <td>
+        <td style="max-width:505px">
         • Prefrence threshold <b>p</b> needs to be defined (<b>q</b> = 0).<br/>
         • According to <b>d</b>, when it is below <b>p</b>, A𝒊 is preferred progressively/gradually over A𝒋.<br/>
         • Good for real numbers measured on a continuous scale, where the gap values are possible.<br/>
@@ -136,7 +136,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/53/bb/YyiMp5Ud_o.png" alt="graph4"/>
         </td>
-        <td>
+        <td style="max-width:505px">
         • When you can affirm, for <b>d</b> between <b>q</b> & <b>p</b>, that A𝒊 is neither strictly preferred over A𝒋 nor indifferent, but be given ½ point.<br/>
         • <b>q</b> & <b>p</b> needs to be defined.
         </td>
@@ -147,7 +147,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/27/d9/i1DGVLOz_o.png" alt="graph5"/>
         </td>
-        <td>
+        <td style="max-width:505px">
         • As type 3 including room for indifference with <b>q</b> to be define.<br/>
         • This type includes types 1, 2 and 3.<br/>
         <img src="https://latex.codecogs.com/png.latex?%5Cbg_white%20f%28d%29%3D%20%5Cfrac%7Bd-q%7D%7Bp-q%7D%20%5Cquad%20%5Ctext%7Bwhen%20%7D%20%5Cquad%20q%3Cd%3Cp"/>
@@ -159,7 +159,7 @@ Here are the 6 types (you can determine **d** and 𝑷 from the graphs, comments
         <br/>
         <img style="width:175px" src="https://images2.imgbox.com/d1/01/43buDmp7_o.png" alt="graph6"/>
         </td>
-        <td>
+        <td style="max-width:505px">
         • The <i>standard deviation</i> <b>σ</b><i>(sigma)</i> (also called <i>gaussian threshold <b>S</b></i>) is to define (it is the position of the inflexion point of the preference function curve), it is recommended to choose <b>q</b> & <b>p</b> first then set it between (or just their average, the ideal value corresponds to a weak preference degree of 0.39).<br/>
         • Compared to type 3 (or type 5 with <b>q</b>=0, so no flat indiffrence area), the prefrence is more nearby <b>p</b> (after <b>σ</b>) and is less nearby <b>q</b> (before <b>σ</b>), and it grows continuously not lineraly.⁽¹²⁾<br/>
         <img src="https://latex.codecogs.com/png.latex?%5Cbg_white%20f%28d%29%3D1-%5Cexp%5Cleft%20%5B%20-%5Cfrac%7Bd%5E2%7D%7B2%5Csigma%20%5E2%7D%20%5Cright%20%5D"/>
