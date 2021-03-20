@@ -177,7 +177,7 @@ After having all data (covered in how to use it) here is how it works:
 ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cbegin%7Balign*%7D%20%5Ctexttt%7BActions%3A%7D%5Cquad%20%28a_%7B1%7D%2Ca_%7B2%7D%2C..%5Cquad%20a_%7Bi%7D%2C..%5Cquad%20a_%7Bn%7D%29%5C%5C%20%5Ctexttt%7BCriterias%3A%7D%5Cquad%20%28c_%7B1%7D%2Cc_%7B2%7D%2C..%5Cquad%20c_%7Bk%7D%2C..%5Cquad%20c_%7Bm%7D%29%5C%5C%20x_%7Bik%7D%3A%20%5Cquad%20%28a_%7Bi%7D%2Cc_%7Bk%7D%29%5Ctexttt%7B%20evaluation%7D%20%5Cend%7Balign*%7D)
 
 **Step 0 (optionnal):** Normalize the action⨯criteria evaluations and criterias weights, making the values concise, between 0 & 1 (with the consideration of the criteria if it is to maximize or minimize, which reverse values in the second case).  
-![](https://latex.codecogs.com/png.download?%5Cbg_white%20%5Cbegin%7Balign*%7D%20x_%7Bik%7D%5E%7B%27%7D%20%3D%20%5Cfrac%7Bx_%7Bik%7D%20-%20Min%5Cleft%28x_%7Bk%7D%5Cright%29%7D%7BMax%5Cleft%28x_%7Bk%7D%5Cright%29%20-%20Min%5Cleft%28x_%7Bk%7D%5Cright%29%7D%20%5Cquad%20%26%5Ctext%7B%20For%20beneficial%20criteria%20%7D%20c_k%20%5C%5C%5C%5C%20x_%7Bik%7D%5E%7B%27%7D%20%3D%20%5Cfrac%7BMax%5Cleft%28x_%7Bk%7D%5Cright%29%20-%20x_%7Bik%7D%7D%7BMax%5Cleft%28x_%7Bk%7D%5Cright%29%20-%20Min%5Cleft%28x_%7Bk%7D%5Cright%29%7D%20%5Cquad%20%26%5Ctext%7B%20For%20disadvantageous%20criteria%20%7D%20c_k%20%5Cend%7Balign*%7D%5C%5C%20x_%7Bik%7D%5E%7B%27%7D%20%5Ctext%7B%20%3A%20the%20normalized%20value%20of%20%7D%20%28a_i%2C%20c_k%29%5C%5C%5C%5C%20Min%28x_%7Bk%7D%29%20%5Ctext%7B%20is%20the%20minimal%20value%20of%20all%20action%20evaluation%20on%20the%20criteria%20%5Ctextit%7Bk%7D%20%7D) [⁽¹³⁾](#-nivetha-martin---promethee-method---rest-society-for-research-international---youtube--this-one-is-a-video-that-helps-a-lot-to-understand-easly)
+![](https://www.bruot.org/tex2img/media/1Ep3OjMLYZOGEwz7R7kOnzHyl6CDND0G28hNXZ5y9w2Z/tex2img_equation.png) [⁽¹³⁾](#-nivetha-martin---promethee-method---rest-society-for-research-international---youtube--this-one-is-a-video-that-helps-a-lot-to-understand-easly)
 
 **Step 1:** In a new matrix, calculate for every action ordered pair, the diffrence between each of their criterias evaluations.  
 <p align="center">
@@ -196,7 +196,7 @@ After having all data (covered in how to use it) here is how it works:
 <img src="https://latex.codecogs.com/gif.latex?%5Cpi_%7Bij%7D%20%3D%20%5Csum_%7Bk%3D1%7D%5E%7Bm%7D%20%5Cleft%20%28%20w_k%20%5Ctimes%20%7BP%5E%7Bk%7D%7D_%7Bij%7D%20%5Cright%20%29%20%5Cquad%20%28i%5Cneq%20j%29"/>
 </p>
 
-![](https://latex.codecogs.com/png.latex?\bg_white&space;\pi_{ij}) = 0 ⇔ action 𝒊 is indifferent to action 𝒋 for all criterias. 
+![](https://latex.codecogs.com/png.latex?\bg_white&space;\pi_{ij}) = 0 ⇔ action 𝒊 is indifferent to action 𝒋 for all criterias.  
 ![](https://latex.codecogs.com/png.latex?\bg_white&space;\pi_{ij}) = 1 ⇔ action 𝒊 is absolutely preferred over action 𝒋 for all criterias.[⁽¹⁴⁾](#-hela-moalla-frikha-habib-chabchoub-jean-marc-martel---inférence-des-coefficients-dimportance-relative-des-critères-dans-promethee-ii-2008-008---université-laval)   
 
 **Step 4:**
