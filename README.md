@@ -2,8 +2,9 @@
 
 🔗 Live Demo: <a href="https://mouradsidhoumi.github.io/promethee2/" target="_blank">https://mouradsidhoumi.github.io/promethee2/</a>
 
-📘 If you understand _french_, <a href="https://pdfhost.io/v/9wScft4g5_Memoire_L3_Sidhoumi.pdf" target="_blank">here is a mini-thesis-like</a> that I did about this project 🎓.
+📘 If you understand _french_, here is a <a href="https://pdfhost.io/v/9wScft4g5_Memoire_L3_Sidhoumi.pdf" target="_blank">report</a> that I did about this project 🎓.
 
+(⌨️ This is my first JS project, so the code is very bad)
 ---
 
 ### 🧭 Two case scenarios are covered in this readme for using the method :
