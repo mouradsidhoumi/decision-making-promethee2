@@ -5,6 +5,7 @@
 📘 If you understand _french_, here is a <a href="https://pdfhost.io/v/9wScft4g5_Memoire_L3_Sidhoumi.pdf" target="_blank">report</a> that I did about this project 🎓.
 
 (⌨️ This is my first JS project, so the code is very bad)
+
 ---
 
 ### 🧭 Two case scenarios are covered in this readme for using the method :
