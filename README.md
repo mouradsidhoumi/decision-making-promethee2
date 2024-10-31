@@ -226,7 +226,7 @@ After having all data (covered in how to use it) here is how it works:
 🚧🏗🛠
 
 ---
-# 📚 Bibliography:🧬🔍
+# 📚 Bibliography (for this read me):🧬🔍
 
 ###### ⁽¹⁾ Évolution historique de l'aide à la décision - Aide à la décision - Wikipédia
 ###### ⁽²⁾ E. ALNAFIE - Fondement de la décision - Support de cours master1 RSID
@@ -244,7 +244,7 @@ After having all data (covered in how to use it) here is how it works:
 ###### ⁽¹⁴⁾ Hela Moalla FRIKHA, Habib CHABCHOUB, Jean-Marc MARTEL - Inférence des coefficients d’importance relative des critères dans Promethee II, 2008 008 - Université Laval.
 ###### ⁽¹⁵⁾ Hela Moalla FRIKHA, Habib CHABCHOUB, Jean-Marc MARTEL - Une approche interactive pour la détermination des seuils d’indifférence dans Promethee, 2007 013 - Université Laval
 <!-- 
-12 #-bertrand-mareschal---preference-functions-and-thresholds-june-14-2018
+
 ###### ⁽¹⁶⁾
 ###### ⁽¹⁷⁾
 ###### ⁽¹⁸⁾
