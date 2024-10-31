@@ -1,10 +1,8 @@
-# PROMETHEE II - A Method Of Multi Criteria Decision Support|Analysis|Making (MCDM)
+# PROMETHEE II - A Method Of Multi-Criteria Decision Support|Analysis|Making (MCDM)
 
 🔗 Live Demo: <a href="https://mouradsidhoumi.github.io/promethee2/" target="_blank">https://mouradsidhoumi.github.io/promethee2/</a>
 
 📘 If you understand _french_, here is a <a href="https://pdfhost.io/v/9wScft4g5_Memoire_L3_Sidhoumi.pdf" target="_blank">report</a> that I did about this project 🎓.
-
-(⌨️ This is my first JS project, so the code is very bad)
 
 ---
 
@@ -169,7 +167,7 @@ Here are the 6 types:[⁽¹¹⁾](#-farouk-aissanou---décisions-multicritères-
     </tr>
 </table>
 
-🚧 In the demo website, the gaussian type will be added soon.
+🚧 In the demo website, the gaussian type isn't available for now.
 
 ---
 ## ⚙ PROMETHEE II Process : 
@@ -225,7 +223,7 @@ After having all data (covered in how to use it) here is how it works:
 
 ---
 ## 🎰 Advantages and disadvantages of the Promethee method:🩺
-Soon 🚧🏗🛠
+🚧🏗🛠
 
 ---
 # 📚 Bibliography:🧬🔍
